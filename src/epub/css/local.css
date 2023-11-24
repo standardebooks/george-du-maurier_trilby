@@ -79,3 +79,15 @@ footer{
 	text-indent: 0;
 }
 /* end letters */
+
+/* special divisions */
+div > header > p{
+	font-variant: small-caps;
+	margin-top: 3em;
+	text-align: center;
+}
+
+div + p{
+	margin-top: 1em;
+}
+/* end special divisions */
