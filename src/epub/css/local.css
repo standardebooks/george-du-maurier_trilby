@@ -50,11 +50,25 @@ p span.i3{
 	-epub-hyphens: none;
 }
 
-[epub|type~="epigraph"] em,
-[epub|type~="epigraph"] i{
+[epub|type~="epigraph"] em{
 	font-style: normal;
 }
 /* end epigraphs */
+
+/* Epigraphs in section headers */
+section > header [epub|type~="epigraph"]{
+	display: inline-block;
+	margin: auto;
+	max-width: 80%;
+	text-align: initial;
+}
+
+@supports(display: table){
+	section > header [epub|type~="epigraph"]{
+		display: table;
+	}
+}
+/* End epigraphs in section headers */
 
 /* language styling */
 blockquote[xml|lang]{
