@@ -98,14 +98,13 @@ footer{
 }
 /* end letters */
 
-/* special divisions */
-div > header > p{
-	font-variant: small-caps;
-	margin-top: 3em;
-	text-align: center;
+/* subchapters */
+section[epub|type~="z3998:subchapter"]{
+	padding-top: 2em;
 }
 
-div + p{
-	margin-top: 1em;
-}
-/* end special divisions */
+section[epub|type~="z3998:subchapter"] header{
+	font-variant: small-caps;
+	margin: 1em;
+	text-align: center;
+}/* end subchapters */
