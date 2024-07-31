@@ -65,7 +65,7 @@
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/39858</dc:source>
 		<dc:source>https://archive.org/details/trilbynovel00dumaiala</dc:source>
-		<meta property="se:word-count">102057</meta>
+		<meta property="se:word-count">102042</meta>
 		<meta property="se:reading-ease.flesch">66.98</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Trilby</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/george-du-maurier_trilby</meta>
