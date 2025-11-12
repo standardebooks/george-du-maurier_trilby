@@ -75,8 +75,8 @@
 		<meta property="se:name.person.full-name" refines="#author">George Louis Palmella Busson du Maurier</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/George_du_Maurier</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n50074501</meta>
-		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">Charles Joshua Chaplin</dc:contributor>
 		<meta property="file-as" refines="#artist">Chaplin, Charles Joshua</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Charles_Joshua_Chaplin</meta>
