@@ -1,14 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <se-lint-ignore>
 	<file path="part-6.xhtml">
-		<ignore>
-			<code>t-003</code>
+		<ignore code="t-003">
 			<reason>Continued dialog</reason>
 		</ignore>
 	</file>
 	<file path="part-7.xhtml">
-		<ignore>
-			<code>t-024</code>
+		<ignore code="t-024">
 			<reason>Quotes not for dialog</reason>
 		</ignore>
 	</file>
