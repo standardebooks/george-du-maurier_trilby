@@ -58,7 +58,7 @@
 		<meta id="collection-1" property="belongs-to-collection">The Telegraph’s Greatest Villains in Literature</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
 		<meta property="group-position" refines="#collection-1">15</meta>
-		<dc:abstract>A young woman captures the hearts of a group of artists before falling under the spell of a strange villain.</dc:abstract>
+		<meta property="schema:abstract">A young woman captures the hearts of a group of artists before falling under the spell of a strange villain.</meta>
 		<dc:description>
 			&lt;p&gt;Three men, working as artists in Paris, enjoy their days and evenings together in artistic and musical activities. A mysterious character named Svengali often visits their workshop and plays the piano. He is talented and thinks very highly of himself. Soon enough a young woman named Trilby O’Ferrall, an artist’s model, joins the group when she hears music coming from the workshop. She is unconventional but charming, and captures the hearts of all the men around her. But before long, the villainous Svengali starts to exercise a mysterious power over her.&lt;/p&gt;
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/george-du-maurier"&gt;George du Maurier&lt;/a&gt; tells the story mostly from the point of view of the three men: Little Billee, the Laird, and Taffy. His portrayal of Svengali later received criticism for being antisemitic, and the word “Svengali” has since come to mean someone who manipulates another, often for evil purposes.&lt;/p&gt;
