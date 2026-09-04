@@ -33,11 +33,11 @@
 		<dc:subject id="subject-1">Musical fiction</dc:subject>
 		<dc:subject id="subject-2">Psychological fiction</dc:subject>
 		<dc:subject id="subject-3">Love stories</dc:subject>
-		<dc:subject id="subject-4">Women singers -- Fiction</dc:subject>
-		<dc:subject id="subject-5">Paris (France) -- Fiction</dc:subject>
-		<dc:subject id="subject-6">Artists -- Fiction</dc:subject>
-		<dc:subject id="subject-7">Artists' models -- Fiction</dc:subject>
-		<dc:subject id="subject-8">Hypnotists -- Fiction</dc:subject>
+		<dc:subject id="subject-4">Women singers--Fiction</dc:subject>
+		<dc:subject id="subject-5">Paris (France)--Fiction</dc:subject>
+		<dc:subject id="subject-6">Artists--Fiction</dc:subject>
+		<dc:subject id="subject-7">Artists' models--Fiction</dc:subject>
+		<dc:subject id="subject-8">Hypnotists--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85088958</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
